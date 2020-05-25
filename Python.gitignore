@@ -1,3 +1,6 @@
+# This file is used to ignore files which are generated
+# ----------------------------------------------------------------------------
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
