@@ -18,7 +18,7 @@ This is collection of [`.gitignore`][man] file templates.
 1. Qt
 1. Sass
 
-### Other:
+### Others:
 1. Reports
 1. Microsoft Office
 1. Web
