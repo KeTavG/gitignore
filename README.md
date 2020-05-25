@@ -10,7 +10,9 @@ This is collection of [`.gitignore`][man] file templates.
 1. C
 1. Haskell
 1. Java
+1. Microsoft Office
 1. Python
 1. Qt
+1. Reports
 1. Sass
 1. Web
