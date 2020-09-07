@@ -22,3 +22,4 @@ This is collection of [`.gitignore`][man] file templates.
 1. Reports
 1. Microsoft Office
 1. Web
+1. Forge
